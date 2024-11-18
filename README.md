@@ -39,8 +39,3 @@ This project analyzes data from the **Inc. 5000 list for 2019**, which features 
 3. **Tableau**: Open the `.twbx` file in Tableau Desktop.  
 4. **Python**: Run the `.ipynb` file in Jupyter Notebook or any Python IDE.  
 5. **SQL**: Execute the `.sql` script in any SQL database tool.
-
----
-
-## 📧 Contact  
-For any questions or feedback, feel free to reach out via [Your Email or LinkedIn Profile].  
